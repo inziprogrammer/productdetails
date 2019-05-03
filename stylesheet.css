@@ -1,0 +1,92 @@
+body {
+    margin: auto 0;
+    padding: 0;
+}
+.container {
+    top: 10%;
+    left: 10%;
+    position: absolute;
+    width: 80%;
+    background-color: #e6e8eb;
+    float: left;
+    border: 2px solid #3c3c3c;
+    border-radius: 4px;
+    padding-bottom: 10px;
+}
+.form {
+    padding: 30px;
+}
+.header {
+    background-color: #a3a7ac;
+    padding: 5px;
+}
+.header label {
+    text-align: left;
+}
+.first {
+    float: left;
+    width: 40%;
+    text-align: right;
+}
+.first label {
+    padding-right: 10px;
+}
+.second {
+    float: right;
+    width: 40%;
+    text-align: right;
+    margin-right: 40px;
+}
+.second label {
+    padding-right: 10px;
+}
+input {
+    width: 250px;
+    height: 20px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+input[type=date] {
+    width: 225px;
+}
+select {
+    width: 259.5px;
+    height: 27px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    background-color: #e6e8eb;
+}
+.input2 {
+    width: 116px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+.select2 {
+    width: 130px;
+    border-radius: 3px;
+}
+button {
+    float: right;
+    bottom: 0;
+    right: 0;
+    margin-right: 5px;
+    width: 80px;
+    margin-top: 50px;
+    border-radius: 3px;
+    padding: 3px;
+}
+input[type=checkbox] {
+    margin-right: 125px;
+}
+img {
+    width: 25px;
+    height: 25px;
+    margin-top: 4px;
+    margin-left: 0px;
+    margin-bottom: -6px;
+}
+.new {
+    margin-right: -119px;
+}
